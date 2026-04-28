@@ -30,4 +30,4 @@ A camada bronze contém os dados em formato de tabela, sem tratamento. Nessa eta
 
 Os arquivos utilizados no projeto foram extraídos do curso **Formação Engenharia de Dados**, disponível no link abaixo:
 
-[https://meuscursos.infinitybigdata.com/m/courses]
+https://meuscursos.infinitybigdata.com/m/courses
